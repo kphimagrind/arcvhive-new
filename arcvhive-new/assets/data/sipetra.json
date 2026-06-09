@@ -1,0 +1,18 @@
+[
+  {
+    "id": "SIP001",
+    "title": "Data Pengaduan Internal",
+    "category": "SIPETRA",
+    "categorySlug": "sipetra",
+    "file": "https://docs.google.com/spreadsheets/d/1SVe28JBo2xcaAyN5dyLLp_IZVzU4MR_LxokKIvoSD8Y/preview",
+    "description": "Spreadsheet pengaduan internal yang digunakan untuk pelaporan dan tindak lanjut."
+  },
+  {
+    "id": "SIP002",
+    "title": "Laporan Evaluasi Program",
+    "category": "SIPETRA",
+    "categorySlug": "sipetra",
+    "file": "./content/spreadsheet/evaluasi/data-evaluasi.html",
+    "description": "Laporan evaluasi berkala program kebijakan organisasi."
+  }
+]
