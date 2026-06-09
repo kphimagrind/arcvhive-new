@@ -1,0 +1,27 @@
+{
+  "siteTitle": "Kebijakan Publik Archive",
+  "siteDescription": "Portal arsip kebijakan publik HIMAGRIND",
+  "menu": [
+    { "label": "Beranda", "href": "index.html" },
+    { "label": "Informasi", "href": "pages/kategori.html?slug=informasi" },
+    { "label": "Peraturan", "href": "pages/kategori.html?slug=peraturan" },
+    { "label": "SIPETRA", "href": "pages/sipetra.html" },
+    { "label": "Tentang", "href": "pages/tentang.html" }
+  ],
+  "hero": {
+    "title": "Arsip Kebijakan Publik Organisasi",
+    "subtitle": "Kumpulan artikel, dokumen, dan data SIPETRA untuk pengelolaan informasi organisasi.",
+    "backgroundImage": "",
+    "cta": [
+      { "label": "Jelajahi Arsip", "href": "pages/kategori.html?slug=informasi" },
+      { "label": "Lihat SIPETRA", "href": "pages/sipetra.html" }
+    ]
+  },
+  "categories": [
+    { "slug": "informasi", "name": "Informasi" },
+    { "slug": "peraturan", "name": "Peraturan" },
+    { "slug": "sto", "name": "STO" },
+    { "slug": "berita-acara", "name": "Berita Acara" },
+    { "slug": "sipetra", "name": "SIPETRA" }
+  ]
+}

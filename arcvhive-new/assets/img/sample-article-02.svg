@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5a623"/>
+      <stop offset="100%" stop-color="#f7c948"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#g)" />
+  <text x="50%" y="45%" fill="#1f2937" font-family="Inter, sans-serif" font-size="36" text-anchor="middle">Arsip Digital</text>
+  <text x="50%" y="55%" fill="#334155" font-family="Inter, sans-serif" font-size="20" text-anchor="middle">Kebijakan Organisasi</text>
+</svg>
